@@ -5,6 +5,9 @@ import math
 import matplotlib.pyplot as plt
 #from shapely.geometry import LineString
 
+"""
+The script is not complete and not working properly
+"""
 
 class VoronoiSite:
     def __init__(self, x, y, z):
